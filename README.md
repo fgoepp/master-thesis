@@ -4,4 +4,4 @@ This repository contains code of simulations and experiments conducted for the m
 'Feature Attribution Methods: Shapley Values on Logical Formulas and Improving Explanations by Averaging'. 
 
 For Experiment 2 E2_ducks-in-imagenet, to replicate results an extensive training of models is necessary,
-but some intermediate results are already given. 
+but some intermediate results are given. 
